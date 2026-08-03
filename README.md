@@ -10,6 +10,7 @@ I'm a Tech Lead with 8 years of experience, solving one machine coding problem a
 |---------|------------|----------|------|-------|
 | [Traffic Lights](./traffic-lights) | Medium | `useEffect`, `setTimeout`, state machine | [Starting](./traffic-lights/TrafficLight.js) · [Polished](./traffic-lights/TrafficLight.polished.js) | _coming soon_ |
 | [Searchable Dropdown](./searchable-dropdown) | Medium | `useMemo`, `useEffect`, keyboard nav, multi-select | [Starting](./searchable-dropdown/App.js) · [Polished](./searchable-dropdown/App.polished.js) | _coming soon_ |
+| [Pyramid Pattern](./pyramid-pattern) | Medium | loops, string construction, input validation | [Starting](./pyramid-pattern/generatePyramid.js) · [Polished](./pyramid-pattern/generatePyramid.polished.js) | _coming soon_ |
 
 More problems added regularly as I solve them, in no particular order (matches NamasteDev's own practice list, which isn't sequenced either).
 
